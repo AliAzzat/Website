@@ -11,7 +11,7 @@ private static ResultSet resultSet;
   public static void startConnection() {
 
  String javaDriver = "com.mysql.cj.jdbc.Driver";
-  String jdbcURLRemoteHost = "jdbc:mysql://localhost:3306/courses";
+  String jdbcURLRemoteHost = "jdbc:mysql://localhost:3306/Website";
   String root = "root";
 	 String myPassword="a123456";
 	  ResultSet rs;
