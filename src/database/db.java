@@ -13,7 +13,7 @@ private static ResultSet resultSet;
  String javaDriver = "com.mysql.cj.jdbc.Driver";
   String jdbcURLRemoteHost = "jdbc:mysql://localhost:3306/courses";
   String root = "root";
-	 String myPassword="ali1989119";
+	 String myPassword="a123456";
 	  ResultSet rs;
 		  try
 				    {
